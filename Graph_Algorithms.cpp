@@ -3,7 +3,7 @@
  * build graphs, transpose graphs, detect and print cycle in graphs,
  * find shortest path between two vertices of the graph.
  * Dijkstra's algorithm implementation.
- * @author Roman Makarov, github.com/rmakarovv.
+ * @author Roman Makarov, github.com/rmakarovv
  */
 
 #include <iostream>
