@@ -104,8 +104,8 @@ public:
 template<typename T>
 class Graph {
 public:
-    std::map<T, Vertex<T>> vertices;
-    std::map<std::pair<T, T>, Edge<T>> edges;
+    std::list<Vertex<T>> vertices;
+    std::list<Edge<T>> edges;
 
     Graph(){};
 
